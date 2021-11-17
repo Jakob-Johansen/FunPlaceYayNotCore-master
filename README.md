@@ -2,4 +2,4 @@
 
 This is an old project with many small projects i made long time ago.
 
-Some of the projects is from books.
+Some of the projects is from C# books.
